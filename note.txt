@@ -1,0 +1,32 @@
+At some point time in time i need to acknowledge that enough is enough and that it is time to do some brain rotting
+So from this point and onwards I am going to make a fun little brain rot project video
+
+Time to make OpenBrainRot but in python
+
+1. Groq API (To convert the text into audio)
+2. Beautiful Soup (Simple webscraping for the reddit script)
+3. Assets for minecraft parkour (probably like 5 videos will do)
+4. Some stupid voice over (possibly for barack obama)
+5. Synchronising the subtitles together with the audio (this is possibly the hardest but can be done with Coqui TTS)
+
+
+In the future: 
+1. Create a simple automation platform (most likely need to connect Gemini API => searching for the most up to snazzy brain rots available)
+
+
+
+a short and simple plan
+reddit_url => generate the video
+
+
+How? 
+
+Fns:
+1. Audio of your choosing (or whatever that I will include probably like)
+1. 20 seconds of kanye
+2. 20 seconds of lebron james 
+3. 20 seconds of Vince mcmahon
+4. 20 seconds of Donald Trump
+
+reddit_url => scrape for the texts => pre process force alignment => take oof.txt and get trump to say it =>
+then do force alignment
